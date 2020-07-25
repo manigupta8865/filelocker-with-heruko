@@ -7,7 +7,7 @@ import fileimage from './components/images/ffff.jpg'
 const App = () => (
   <div className='container mt-4'style={{backgroundImage:`url(${fileimage})`}}>
     <h4 className='display-4 text-center mb-4'>
-      <i className='fab fa-react' /> React File Upload
+      <i className='fab fa-react' /> React File Uploader
     </h4>
 
     <FileUpload />
