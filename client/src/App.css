@@ -1,0 +1,19 @@
+
+.product-list{
+    display: flex;
+    justify-content: center;
+    margin-top:10rem;
+}
+.Table-Heading th{
+    padding: 10px 50px;
+    border-right:2px solid green ;
+}
+.Table-Data td{
+    padding: 10px;
+    border-right: 2px solid green;
+
+}
+.product-list table{
+    border:3px solid red;
+    border-radius: 4em;
+}
